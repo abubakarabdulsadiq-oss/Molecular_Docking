@@ -1,14 +1,14 @@
 # Molecular_Docking
-An introductory and comprehensive, step-by-step guide to using Schrödinger Maestro for Molecular docking. Designed for beginners and early-career researchers in medicinal chemistry and computational drug discovery.
+An introductory and comprehensive step-by-step guide to molecular docking. Designed for beginners and early-career researchers in medicinal chemistry and computational drug discovery.
 
 # DESCRIPTION
-# An Introductory and Comprehensive Guide to Using Schrödinger Maestro for Small-Molecule Drug Discovery, Design, and Optimization
+# An Introductory and Comprehensive Guide on Molecular Docking for Small-Molecule Drug Discovery, Design, and Optimization
 
 **Author:** Abdullahi Abubakar Sadiq  
 **Specialty:** Computational Chemistry, Artificial Intelligence, and Machine Learning for Drug Discovery  
 
 ## Overview
-This repository contains a beginner-friendly, step-by-step guide to using Schrödinger Maestro for small-molecule drug discovery workflows, including protein preparation, ligand preparation, molecular docking, docking validation, and post-docking analysis.
+This repository contains a beginner-friendly, step-by-step guide to molecular docking for small-molecule drug discovery workflows, including protein preparation, ligand preparation, molecular docking, docking validation, and post-docking analysis.
 
 The guide is intended for:
 - Students
