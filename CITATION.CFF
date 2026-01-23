@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: "An Introductory and Comprehensive Guide to Using Schrödinger Maestro for Small-Molecule Drug Discovery, Design, and Optimization"
+message: "If you use this guide, please cite it."
+authors:
+  - family-names: Abdullahi
+    given-names: Abubakar Sadiq
+version: 1.0.0
+date-released: 2026-01-23
+keywords:
+  - computational drug discovery
+  - Schrödinger Maestro
+  - molecular docking
+  - structure-based drug design
+  - CADD
+license: MIT
